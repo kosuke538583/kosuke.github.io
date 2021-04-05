@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+@media(max-width: 1000px){
+
+}
+
+@media(max-width: 670px){
+	.header-list{
+		display:none;
+	}
+	.head-menu-icon{
+		display:block;
+	}
+	header{
+        position:static;
+	}
+}
